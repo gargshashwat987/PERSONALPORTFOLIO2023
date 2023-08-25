@@ -8,7 +8,6 @@ Welcome to the repository for my personal resume website! This website showcases
 Introduction
 Features
 Technologies Used
-License
 Contact
 
 Introduction
@@ -26,11 +25,16 @@ HTML5: Structure of the website.
 CSS3: Styling and layout.
 JavaScript: Interactivity and dynamic content.
 
-Contributing
-I welcome contributions to improve this personal resume website. If you find any bugs, have suggestions for enhancements, or want to add new features, please open an issue or submit a pull request. Let's make this website even better together!
-
 
 Contact
-If you'd like to get in touch, you can reach me at your.email@example.com or through my LinkedIn.
 
 Thank you for visiting my personal resume website repository! I hope you find it informative and engaging.
+
+
+<img width="960" alt="1" src="https://github.com/gargshashwat987/PERSONAL_PORTFOLIO_2023/assets/124812421/7be32839-9046-46d8-a0c7-78ebe9c2e2e3">
+<img width="803" alt="2" src="https://github.com/gargshashwat987/PERSONAL_PORTFOLIO_2023/assets/124812421/6768e819-530e-4909-9a50-bcf843e5be37">
+<img width="724" alt="3" src="https://github.com/gargshashwat987/PERSONAL_PORTFOLIO_2023/assets/124812421/e44ef50e-dfbe-444e-907b-379f7c75e1bf">
+<img width="809" alt="4" src="https://github.com/gargshashwat987/PERSONAL_PORTFOLIO_2023/assets/124812421/a65c24ef-fd95-4e20-a2a8-8129f13a76c7">
+
+
+
