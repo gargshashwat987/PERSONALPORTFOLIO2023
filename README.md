@@ -2,7 +2,7 @@
 
 SHASHWAT GARG WELCOMES YOU!
 
-You can access my portfolio through: https://gargshashwat987.github.io/PERSONAL_PORTFOLIO_2023/
+You can access my portfolio through: https://gargshashwat987.github.io/PERSONALPORTFOLIO2023/
 
 Welcome to the repository for my personal resume website! This website showcases my skills, experiences, and projects in the field of web development and beyond. The website is built using HTML, CSS, and JavaScript, and it serves as an online version of my resume. Feel free to explore the code and content here.
 
