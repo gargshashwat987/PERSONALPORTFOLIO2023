@@ -1,6 +1,6 @@
 <b>Personal Resume Website</b>
 
-SHASHWAT GARG WELCOME YOU!
+SHASHWAT GARG WELCOMES YOU!
 
 You can access my portfolio through: https://gargshashwat987.github.io/PERSONAL_PORTFOLIO_2023/
 
